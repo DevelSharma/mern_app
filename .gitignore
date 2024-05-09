@@ -1,0 +1,10 @@
+# Client Side
+client/node_modules
+client/.parcel-cache
+client/dist
+
+
+# Server Side
+server/node_modules
+server/config.js
+
